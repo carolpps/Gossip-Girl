@@ -24,9 +24,9 @@ Este site recria a atmosfera do famoso blog da série, com uma interface inspira
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-B9DDF2?style=for-the-badge&logo=html5&logoColor=713B55"/>
-<img src="https://img.shields.io/badge/CSS3-F4C6D7?style=for-the-badge&logo=css3&logoColor=713B55"/>
-<img src="https://img.shields.io/badge/JavaScript-D8C9F0?style=for-the-badge&logo=javascript&logoColor=713B55"/>
+<img src="https://img.shields.io/badge/HTML5-17243A?style=for-the-badge&logo=html5&logoColor=C6A15B"/>
+<img src="https://img.shields.io/badge/CSS3-C6A15B?style=for-the-badge&logo=css3&logoColor=171717"/>
+<img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=C6A15B"/>
 
 </div>
 
