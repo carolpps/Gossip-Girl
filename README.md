@@ -27,8 +27,8 @@ O site apresenta um espaço inspirado no blog de fofocas da série, com uma inte
 
 ## Observação
 
-As fofocas enviadas ficam salvas apenas no navegador em que foram enviadas. O projeto é uma criação independente, feita para fins de estudo, e não é afiliado à série *Gossip Girl*.
+As fofocas enviadas ficam salvas apenas no navegador em que foram enviadas. O projeto é uma criação independente, feita para fins de estudo, e não é afiliado à série de livros e televisão *Gossip Girl*.
 
 ---
 
-Feito com 💗
+*XOXO, Gossip Girl*
